@@ -1,0 +1,51 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+build/
+compile-vox.sh
+lib/
+plugins/
+release/
+compile-vox.sh
+Vox-qt.pro.user
+contrib/
+translations/
+src/voxd
+src/.DS_Store
+src/qt/res/.DS_Store
+src/qt/res/images/.DS_Store
+.DS_Store
+Vox-Qt.dmg
+Vox-qt.pro.autosave
+*.qm
+
